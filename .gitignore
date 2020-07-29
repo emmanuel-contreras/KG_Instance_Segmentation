@@ -1,0 +1,8 @@
+*.png
+*.zip
+*.tar.gz
+htcondor/data/
+htcondor/dataset/
+htcondor/output/
+htcondor/error/
+htcondor/log/
