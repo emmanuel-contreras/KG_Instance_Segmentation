@@ -6,3 +6,6 @@ htcondor/dataset/
 htcondor/output/
 htcondor/error/
 htcondor/log/
+
+__pycache__/
+weights_kaggle/
